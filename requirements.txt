@@ -1,0 +1,9 @@
+selenium==3.141.0
+urllib3==1.26.3
+pip~=21.0.1
+behave~=1.2.6
+robotframework~=3.2.2
+python-dotenv~=0.17.1
+pytest-allure-adaptor==1.7.10
+allure-behave==2.9.43
+allure-python-commons==2.9.43
